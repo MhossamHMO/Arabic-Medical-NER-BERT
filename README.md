@@ -46,7 +46,7 @@ The best-performing model utilizes a targeted optimization strategy:
 * **Metric Strategy**: Best model selected based on **F1-score** to ensure a balance between precision and recall for rare entities.
 
 ## 📂 File Structure
-* `data/`: Preprocessed datasets (Original + Gemini-Augmented + AI-Annotated).
+* `Full_NER_Dataset.csv`: Preprocessed dataset (Original + Augmented + AI-Annotated).
 * `scripts/`: Preprocessing logic and training loops.
 * `notebooks/`: Exploratory Data Analysis and Model Benchmarking.
 
